@@ -15,7 +15,7 @@ using namespace std;
 
 
 int main(int argc, char *argv[])
-{ 
+{
 	// get monitor size
 	char name_video[256];
 	char name_cascade[256];
